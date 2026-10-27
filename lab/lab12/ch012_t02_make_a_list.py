@@ -1,2 +1,3 @@
 board = []
-for i 
+for i range(5):
+    
